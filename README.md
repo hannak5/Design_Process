@@ -8,7 +8,7 @@ Please be detailed in your response. If you feel like you have a lot of experien
 
 ## The Design Process
 
-- [x] - [x] - [ ] **Discovery** | Experience level: Medium
+- [x] **Discovery** | Experience level: Medium
  
 * In both my architectural and lighting design background, discovery was the first phase of a project. We were required to submit project briefs and timelines as well as clarify the scope of the project during the stakeholder meetings.
 * Although, the deliverables will be slightly different for UX/UI Design, the process reads similar in terms of goals.
