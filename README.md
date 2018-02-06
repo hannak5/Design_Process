@@ -19,12 +19,12 @@ Please be detailed in your response. If you feel like you have a lot of experien
 * Similar to competition analysis, precedent projects were studied in-depth to understand and learn the components of the successful designs. 
 * User Research is also done at this phase to understand how the space will be used. This data is used as one of the design parameters since it is integral in determining the success of the architecture once it is built. 
 
-- [ ] **Information Architecture** | Experience level: Medium
+- [ ] **Information Architecture** | Experience level: Low
 * Since the testing of a space is not possible in a built structure. My experience in this phase is not vast. However, in lighting design sometimes a prototype is tested on site to ensure it meets the requirements, aesthetically and functionally. 
 * User flows and storyboarding were regularly used as techniques to visualize how a user could possibly use the space. But it would be considered part of the sketches/diagrams used in the strategical planning phase.
 
 
-- [ ] **Visual Design** | Experience level: Medium
+- [x] **Visual Design** | Experience level: Medium
 * Visual Design is an integral component of all the architectural documents since the presentation boards in all critiques were standalone documents. They were supposed to explain the project in images and text as and when required. Hence, getting the typography, text hierarchy, image hierarchy and color, to name a few, were integral to the success of your project being understood by the critics. However, this wasn't taught or targeted explicitly as it is done in Graphic/UX/UI design. Hence, I believe I have a lot to learn about the nuances of these decisions in the overall success of the project.
 
 - [ ] **Development** | Experience level: Low
